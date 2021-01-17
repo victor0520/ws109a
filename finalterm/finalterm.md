@@ -152,3 +152,10 @@ await app.listen({ port: 8000 });
 ![PICTURE](https://github.com/victor0520/ws109a/blob/master/finalterm/image/5.JPG)
 4. 在網頁中搜尋關鍵字，就會出現一些維基百科的連結
 ![PICTURE](https://github.com/victor0520/ws109a/blob/master/finalterm/image/2.JPG)
+### 來源與理解程度
+* 來源
+    * 參考柯泓吉同學的程式碼，理解後再執行一次
+* 理解程度
+    * 對此程式大部分可以理解
+### 修課心得
+* 雖然平常上課的時候幾乎都聽得懂，但是因為很少自己實作，到了快期末了才開始試著寫，但是在做作業的時候才發現自己東西做不出來，所以最後都是直接參考老師跟同學的程式碼，之後應該邊學邊寫，才不會在最後草草了事
