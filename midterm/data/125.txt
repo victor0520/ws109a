@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>首页" class="extiw" title="wikimedia:首页 - Wikimedia Foundation Governance Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAOw7QpAMM8AATsiYyUAAADI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"首页\"_class=\"extiw\"_title=\"wikimedia:首页","wgTitle":"首页\" class=\"extiw\" title=\"wikimedia:首页","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"首页\"_class=\"extiw\"_title=\"wikimedia:首页","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionCreate":[],
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"personal"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.collapsibleTables","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.26"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//foundation.m.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5"/>
+<link rel="shortcut icon" href="/static/favicon/wmf.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Foundation Governance Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//foundation.wikimedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://foundation.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-首页_class_extiw_title_wikimedia_首页 rootpage-首页_class_extiw_title_wikimedia_首页 skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">首页" class="extiw" title="wikimedia:首页</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From the Wikimedia Foundation Governance Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="noarticletext mw-content-ltr" dir="ltr" lang="en">
+<p>There is currently no text in this page.
+You can <a href="/wiki/Special:Search/%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5" title="Special:Search/首页&quot; class=&quot;extiw&quot; title=&quot;wikimedia:首页">search for this page title</a> in other pages, or <span class="plainlinks"><a class="external text" href="https://foundation.wikimedia.org/w/index.php?title=Special:Log&amp;page=%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5">search the related logs</a></span>, but you do not have permission to create this page.
+</p>
+</div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://foundation.wikimedia.org/wiki/首页%22_class%3D%22extiw%22_title%3D%22wikimedia:首页">https://foundation.wikimedia.org/wiki/首页%22_class%3D%22extiw%22_title%3D%22wikimedia:首页</a>"</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-uls" class="active"><a href="#" class="uls-trigger">English</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=%E9%A6%96%E9%A1%B5%22+class%3D%22extiw%22+title%3D%22wikimedia%3A%E9%A6%96%E9%A1%B5" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected new"><a href="/w/index.php?title=%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5&amp;action=edit&amp;redlink=1" title="View the content page (page does not exist) [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views emptyPortlet vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikimedia Foundation Governance Wiki" autocapitalize="sentences" title="Search Wikimedia Foundation Governance Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Home"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-aboutwikimedia" class="mw-portlet mw-portlet-aboutwikimedia vector-menu vector-menu-portal portal" aria-labelledby="p-aboutwikimedia-label" role="navigation" 
+	 >
+	<h3 id="p-aboutwikimedia-label">
+		<span>About Wikimedia</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Home" title="Visit the main page [z]" accesskey="z">Home</a></li><li id="n-corp-text"><a href="//wikimediafoundation.org/" rel="nofollow">Official website</a></li><li id="n-contactus"><a href="//wikimediafoundation.org/about/contact/" rel="nofollow">Contact us</a></li><li id="n-blog-text"><a href="//wikimediafoundation.org/news/" rel="nofollow">Wikimedia Blog</a></li><li id="n-answers"><a href="//meta.wikimedia.org/wiki/Answers">Questions for Wikimedia?</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-support" class="mw-portlet mw-portlet-support vector-menu vector-menu-portal portal" aria-labelledby="p-support-label" role="navigation" 
+	 >
+	<h3 id="p-support-label">
+		<span>Support</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_wikimediafoundation.org" title="Support us">Donate</a></li><li id="n-volunteering"><a href="//wikimediafoundation.org/participate/" rel="nofollow">Volunteering</a></li><li id="n-shop-text"><a href="https://store.wikimedia.org">Wikimedia Shop</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-corporate" class="mw-portlet mw-portlet-corporate vector-menu vector-menu-portal portal" aria-labelledby="p-corporate-label" role="navigation" 
+	 >
+	<h3 id="p-corporate-label">
+		<span>Corporate</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-bylaws"><a href="/wiki/Bylaws">Bylaws</a></li><li id="n-values"><a href="/wiki/Values">Values</a></li><li id="n-policies"><a href="/wiki/Policies">Policies</a></li><li id="n-resolutions"><a href="/wiki/Resolutions">Resolutions</a></li><li id="n-annualreport"><a href="//annual.wikimedia.org/">Annual Report</a></li><li id="n-financialreports"><a href="//wikimediafoundation.org/about/financial-reports/" rel="nofollow">Financial reports and Form 990</a></li><li id="n-fundraisingreports"><a href="/wiki/Fundraising_reports">Fundraising reports</a></li><li id="n-affiliates"><a href="//meta.wikimedia.org/wiki/Wikimedia_movement_affiliates">Movement affiliates</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-sidebar-wiki" class="mw-portlet mw-portlet-sidebar-wiki vector-menu vector-menu-portal portal" aria-labelledby="p-sidebar-wiki-label" role="navigation" 
+	 >
+	<h3 id="p-sidebar-wiki-label">
+		<span>Wiki</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-Give-feedback"><a href="/wiki/Give_feedback">Give feedback</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-info"><a href="/w/index.php?title=%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="/wiki/Privacy_policy" title="Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Home" title="Home">About Wikimedia Foundation Governance Wiki</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikimedia:General_disclaimer" title="Wikimedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-mobileview"><a href="//foundation.m.wikimedia.org/w/index.php?title=%E9%A6%96%E9%A1%B5%22_class%3D%22extiw%22_title%3D%22wikimedia:%E9%A6%96%E9%A1%B5&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/foundation.wikimedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1365"});});</script>
+</body></html>
