@@ -14,7 +14,7 @@ const router = new Router();
 
 router
   .get('/', (ctx)=>{
-    ctx.response.redirect('/public/demo/index.html')
+    ctx.response.redirect('/public/search.html')
   })
   .get('/search', search)
   .get('/public/(.*)', pub)
